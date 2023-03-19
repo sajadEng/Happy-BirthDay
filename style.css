@@ -3,10 +3,10 @@
 
 }
 .teller * {
-	font-family: sans-serif;
+        font-family: 'Pacifico', cursive, sans-serif ;
 }
 .letter *{
-	font-family: monospace;
+        font-family: 'Pacifico', cursive, monospace ;
 }
 body {
 	/* height: 100vh;
