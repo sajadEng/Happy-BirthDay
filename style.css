@@ -2,6 +2,9 @@
 	transition: all 15ms, top 3s, left 3s, border-radius 1s ;
 
 }
+div.teller {
+        font-family: 'Pacifico', cursive, sans-serif ;
+}
 .teller * {
         font-family: 'Pacifico', cursive, sans-serif ;
 }
