@@ -3,6 +3,7 @@
 
 }
 div.teller {
+        overflow: hidden;
         font-family: 'Pacifico', cursive, sans-serif ;
 }
 .teller * {
